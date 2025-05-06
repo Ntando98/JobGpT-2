@@ -18,7 +18,7 @@ This is an ongoing portfolio project built by [Ntando](https://github.com/ntando
 
 ## 🚀 Live Demo
 
-👉 [Click here to view JobGPT live](https://your-username.github.io/JobGPT/)
+👉 file:///C:/Users/Acer/Desktop/websites%20(2)/computStarboy/index.html?#start  (https://Ntando98.github.io/JobGPT/)
 
 ---
 
